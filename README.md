@@ -3,7 +3,7 @@
 همراه آفلاین ویندوز برای یک هدف شخصی: تقویم شمسی، ثبت روزانه، هیت‌مپ، ۱۰۰ نقل‌قول دوزبانه، کتابخانهٔ عکس/فیلم و ویجت همیشه‌بالا.
 
 <p align="center">
-  <img src="screenshots/home.png" width="230" alt="Home Screen" />
+  <img src="screenshots/Home.png" width="230" alt="Home Screen" />
   &nbsp;&nbsp;
   <img src="screenshots/schedule.png" width="230" alt="Easy Mode" />
   &nbsp;&nbsp;
