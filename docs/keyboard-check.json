@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "checks": [
+    "Keyboard onboarding",
+    "Keyboard daily success and growth choice",
+    "Heatmap keyboard activation",
+    "Dialog focus containment",
+    "Escape dismissal and focus restoration"
+  ]
+}

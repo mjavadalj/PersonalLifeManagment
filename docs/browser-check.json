@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "errors": [],
+  "checks": [
+    "onboarding",
+    "success",
+    "growth selection",
+    "persistence",
+    "compact layout",
+    "forest",
+    "sky",
+    "widget quote",
+    "lamp",
+    "150% reduced motion"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "directory": "D:\\projects\\Programming\\GatesOfHell\\tmp\\native-test-1790443483884",
+  "executable": "D:\\projects\\Programming\\GatesOfHell\\tmp\\installed-smoke\\Royesh.exe",
+  "checks": [
+    "onboarding",
+    "daily growth",
+    "window synchronization",
+    "sandbox and external network blocking",
+    "daily quote persistence",
+    "portrait import and private protocol",
+    "video playback and hide/pause",
+    "original file preserved",
+    "widget always-on-top",
+    "offscreen repositioning",
+    "close to tray",
+    "relaunch persistence"
+  ],
+  "errors": []
+}

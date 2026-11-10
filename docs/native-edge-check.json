@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "directory": "D:\\projects\\Programming\\GatesOfHell\\tmp\\native-edge-1790443496002",
+  "checks": [
+    "WebP and JPEG landscape import",
+    "corrupt image rejection",
+    "incompatible video message",
+    "missing media message",
+    "day rollover on resume",
+    "one generic notification per day",
+    "same quote in both windows"
+  ]
+}
